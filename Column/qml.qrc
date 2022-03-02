@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../Object_positioning_z/MyShape.qml</file>
+        <file>MyShape.qml</file>
+    </qresource>
+</RCC>
