@@ -10,6 +10,7 @@ Rectangle {
     property alias title: number
     property alias present: hidden
 
+
     height: 50
     width: 50
     color: root.body
