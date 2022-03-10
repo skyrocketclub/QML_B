@@ -34,4 +34,39 @@ Window {
         }
     }
 
+    Rectangle{
+        id: ball
+        width: 100
+        height: 100
+        radius: width
+        x: 25
+        y: (parent.height/2) - (height/2)
+        color: ballOff
+        border.color: "black"
+        border.width: 5
+
+        //We are saying that the drag target is the mouse area and we are determining if it is active
+        Drag.active: dragArea.drag.active
+        Drag.keys: [theKey]
+
+        Text {
+            id: title
+           anchors.centerIn: parent
+           text: Math.round(parent.x) + " x " + Math.round(parent.y)
+
+        }
+        MouseArea{
+            id: dragArea
+            anchors.fill: parent
+            drag.target: parent
+            onPressed:{
+                parent.color = ballOn
+                goal.color = goalOff
+            }
+            onReleased:{
+                parent.color = ballOff
+                parent.Drag.drop()
+            }
+        }
+    }
 }
