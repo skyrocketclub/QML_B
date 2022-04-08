@@ -1,0 +1,19 @@
+# ninja log v5
+3	429	6708981252820671	inline_javascript_autogen/timestamp	2b1a89050b3e152c
+3	429	6708981252820671	inline_javascript_autogen/mocs_compilation.cpp	2b1a89050b3e152c
+3	429	6708981252820671	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-inline_javascript-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/inline_javascript_autogen/timestamp	2b1a89050b3e152c
+3	429	6708981252820671	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-inline_javascript-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/inline_javascript_autogen/mocs_compilation.cpp	2b1a89050b3e152c
+430	530	6708981255414943	inline_javascript_autogen/EWIEGA46WW/qrc_qml.cpp	511329d7440b2706
+430	530	6708981255414943	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-inline_javascript-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/inline_javascript_autogen/EWIEGA46WW/qrc_qml.cpp	511329d7440b2706
+531	669	6708981256781645	CMakeFiles/inline_javascript.dir/inline_javascript_autogen/mocs_compilation.cpp.obj	9c47af31846e3aa6
+535	693	6708981257060748	CMakeFiles/inline_javascript.dir/inline_javascript_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2068cf69e5f251ca
+539	3073	6708981280936042	CMakeFiles/inline_javascript.dir/main.cpp.obj	52a85a407007c4d3
+3079	3719	6708981285937326	inline_javascript.exe	43b534d7df611dc
+38	135	6708984386950507	inline_javascript_autogen/EWIEGA46WW/qrc_qml.cpp	511329d7440b2706
+38	135	6708984386950507	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-inline_javascript-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/inline_javascript_autogen/EWIEGA46WW/qrc_qml.cpp	511329d7440b2706
+136	270	6708984388321983	CMakeFiles/inline_javascript.dir/inline_javascript_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2068cf69e5f251ca
+271	666	6708984391216675	inline_javascript.exe	43b534d7df611dc
+11	107	6708984852695682	inline_javascript_autogen/EWIEGA46WW/qrc_qml.cpp	511329d7440b2706
+11	107	6708984852695682	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-inline_javascript-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/inline_javascript_autogen/EWIEGA46WW/qrc_qml.cpp	511329d7440b2706
+108	240	6708984854030233	CMakeFiles/inline_javascript.dir/inline_javascript_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2068cf69e5f251ca
+242	664	6708984857229959	inline_javascript.exe	43b534d7df611dc

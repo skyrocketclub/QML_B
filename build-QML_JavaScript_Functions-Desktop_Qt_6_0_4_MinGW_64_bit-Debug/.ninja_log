@@ -1,0 +1,11 @@
+# ninja log v5
+3	334	6708990306740421	QML_JavaScript_Functions_autogen/timestamp	8b7a3c90ba3b2b60
+3	334	6708990306740421	QML_JavaScript_Functions_autogen/mocs_compilation.cpp	8b7a3c90ba3b2b60
+3	334	6708990306740421	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-QML_JavaScript_Functions-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/QML_JavaScript_Functions_autogen/timestamp	8b7a3c90ba3b2b60
+3	334	6708990306740421	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-QML_JavaScript_Functions-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/QML_JavaScript_Functions_autogen/mocs_compilation.cpp	8b7a3c90ba3b2b60
+336	439	6708990309236220	QML_JavaScript_Functions_autogen/EWIEGA46WW/qrc_qml.cpp	1e4c4c29b11bcf40
+336	439	6708990309236220	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-QML_JavaScript_Functions-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/QML_JavaScript_Functions_autogen/EWIEGA46WW/qrc_qml.cpp	1e4c4c29b11bcf40
+440	569	6708990310573968	CMakeFiles/QML_JavaScript_Functions.dir/QML_JavaScript_Functions_autogen/mocs_compilation.cpp.obj	b04b76a57b3f13d8
+448	600	6708990310881795	CMakeFiles/QML_JavaScript_Functions.dir/QML_JavaScript_Functions_autogen/EWIEGA46WW/qrc_qml.cpp.obj	8250451a0897c26e
+444	3057	6708990335512474	CMakeFiles/QML_JavaScript_Functions.dir/main.cpp.obj	e431db4faddac5a2
+3063	3469	6708990338393978	QML_JavaScript_Functions.exe	a942d2e453e5f0c6

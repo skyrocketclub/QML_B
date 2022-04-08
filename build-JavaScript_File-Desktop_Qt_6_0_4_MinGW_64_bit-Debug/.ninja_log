@@ -1,0 +1,31 @@
+# ninja log v5
+3	278	6708998608498403	JavaScript_File_autogen/timestamp	5017ea9d5aab5f67
+3	278	6708998608498403	JavaScript_File_autogen/mocs_compilation.cpp	5017ea9d5aab5f67
+3	278	6708998608498403	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-JavaScript_File-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/JavaScript_File_autogen/timestamp	5017ea9d5aab5f67
+3	278	6708998608498403	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-JavaScript_File-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/JavaScript_File_autogen/mocs_compilation.cpp	5017ea9d5aab5f67
+279	370	6708998610445926	JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+279	370	6708998610445926	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-JavaScript_File-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+371	506	6708998611834854	CMakeFiles/JavaScript_File.dir/JavaScript_File_autogen/mocs_compilation.cpp.obj	7f32943f9d58af8e
+375	531	6708998612089834	CMakeFiles/JavaScript_File.dir/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3152f76002a382d1
+379	2875	6708998635570744	CMakeFiles/JavaScript_File.dir/main.cpp.obj	41c52601de7f4c9e
+2882	3286	6708998638393025	JavaScript_File.exe	ef7ebc6a14ce5915
+10	102	6708999281318688	JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+10	102	6708999281318688	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-JavaScript_File-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+103	234	6708999282676646	CMakeFiles/JavaScript_File.dir/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3152f76002a382d1
+236	638	6708999285681624	JavaScript_File.exe	ef7ebc6a14ce5915
+23	147	6709000109699958	JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+23	147	6709000109699958	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-JavaScript_File-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+148	318	6709000111375384	CMakeFiles/JavaScript_File.dir/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3152f76002a382d1
+320	879	6709000115604363	JavaScript_File.exe	ef7ebc6a14ce5915
+35	333	6709328714919961	JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+35	333	6709328714919961	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-JavaScript_File-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+335	970	6709328721531438	CMakeFiles/JavaScript_File.dir/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3152f76002a382d1
+971	2417	6709328734952112	JavaScript_File.exe	ef7ebc6a14ce5915
+23	214	6709339922093053	JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+23	214	6709339922093053	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-JavaScript_File-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+215	443	6709339924430618	CMakeFiles/JavaScript_File.dir/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3152f76002a382d1
+445	1005	6709339928781679	JavaScript_File.exe	ef7ebc6a14ce5915
+24	214	6709347119917001	JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+24	214	6709347119917001	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-JavaScript_File-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp	47195ff96a964ca9
+215	368	6709347121465089	CMakeFiles/JavaScript_File.dir/JavaScript_File_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3152f76002a382d1
+370	825	6709347124955383	JavaScript_File.exe	ef7ebc6a14ce5915

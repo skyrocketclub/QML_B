@@ -31,12 +31,6 @@ Window {
                 }
             }
 
-
-
-
-
-
-
             onActivated: text = "BOOOOM"
             Connections {
                 target: delayButton

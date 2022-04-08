@@ -1,0 +1,44 @@
+# ninja log v5
+5	617	6710565462758590	call_qml_from_cpp_autogen/timestamp	36e2791f9a8694ce
+5	617	6710565462758590	call_qml_from_cpp_autogen/mocs_compilation.cpp	36e2791f9a8694ce
+213	413	6710726351151904	CMakeFiles/call_qml_from_cpp.dir/call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5b5f6ff88aff641e
+5	617	6710565462758590	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/timestamp	36e2791f9a8694ce
+25	211	6710726348917131	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp	4524c294e3a06ebd
+5	617	6710565462758590	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/mocs_compilation.cpp	36e2791f9a8694ce
+25	211	6710726348917131	call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp	4524c294e3a06ebd
+715	835	6710565467119926	CMakeFiles/call_qml_from_cpp.dir/call_qml_from_cpp_autogen/mocs_compilation.cpp.obj	193c2a14b811c266
+726	3184	6710565490621521	CMakeFiles/call_qml_from_cpp.dir/main.cpp.obj	77cc5954d5a70e3a
+414	697	6710726353948586	call_qml_from_cpp.exe	49d5f52c3fb16945
+12	1175	6710737861798789	call_qml_from_cpp_autogen/timestamp	36e2791f9a8694ce
+12	1175	6710737861798789	call_qml_from_cpp_autogen/mocs_compilation.cpp	36e2791f9a8694ce
+12	1175	6710737861798789	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/timestamp	36e2791f9a8694ce
+12	1175	6710737861798789	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/mocs_compilation.cpp	36e2791f9a8694ce
+1176	1241	6710737864582178	call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp	4524c294e3a06ebd
+1176	1241	6710737864582178	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp	4524c294e3a06ebd
+1245	1355	6710737865758937	CMakeFiles/call_qml_from_cpp.dir/call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5b5f6ff88aff641e
+1242	4062	6710737892823535	CMakeFiles/call_qml_from_cpp.dir/call_qml_from_cpp_autogen/mocs_compilation.cpp.obj	193c2a14b811c266
+1248	4098	6710737893138504	CMakeFiles/call_qml_from_cpp.dir/test.cpp.obj	4a4dcc59cc0c9f0f
+1252	4544	6710737897582120	CMakeFiles/call_qml_from_cpp.dir/main.cpp.obj	77cc5954d5a70e3a
+4545	4927	6710737901370875	call_qml_from_cpp.exe	45c9aa270bf20f57
+21	1171	6710742263022403	call_qml_from_cpp_autogen/timestamp	36e2791f9a8694ce
+21	1171	6710742263022403	call_qml_from_cpp_autogen/mocs_compilation.cpp	36e2791f9a8694ce
+21	1171	6710742263022403	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/timestamp	36e2791f9a8694ce
+21	1171	6710742263022403	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/mocs_compilation.cpp	36e2791f9a8694ce
+1172	1235	6710742265842783	call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp	4524c294e3a06ebd
+1172	1235	6710742265842783	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp	4524c294e3a06ebd
+1238	1352	6710742267060106	CMakeFiles/call_qml_from_cpp.dir/call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5b5f6ff88aff641e
+1235	3965	6710742293153454	CMakeFiles/call_qml_from_cpp.dir/call_qml_from_cpp_autogen/mocs_compilation.cpp.obj	193c2a14b811c266
+1245	4025	6710742293783645	CMakeFiles/call_qml_from_cpp.dir/test.cpp.obj	4a4dcc59cc0c9f0f
+1241	4384	6710742297359553	CMakeFiles/call_qml_from_cpp.dir/main.cpp.obj	77cc5954d5a70e3a
+4384	4842	6710742301892234	call_qml_from_cpp.exe	45c9aa270bf20f57
+21	1176	6710747400275747	call_qml_from_cpp_autogen/timestamp	36e2791f9a8694ce
+21	1176	6710747400275747	call_qml_from_cpp_autogen/mocs_compilation.cpp	36e2791f9a8694ce
+21	1176	6710747400275747	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/timestamp	36e2791f9a8694ce
+21	1176	6710747400275747	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/mocs_compilation.cpp	36e2791f9a8694ce
+1177	1242	6710747403157769	call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp	4524c294e3a06ebd
+1177	1242	6710747403157769	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-call_qml_from_cpp-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp	4524c294e3a06ebd
+1250	1364	6710747404414273	CMakeFiles/call_qml_from_cpp.dir/call_qml_from_cpp_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5b5f6ff88aff641e
+1242	3959	6710747430311370	CMakeFiles/call_qml_from_cpp.dir/call_qml_from_cpp_autogen/mocs_compilation.cpp.obj	193c2a14b811c266
+1254	4013	6710747430906201	CMakeFiles/call_qml_from_cpp.dir/test.cpp.obj	4a4dcc59cc0c9f0f
+1246	4461	6710747435374972	CMakeFiles/call_qml_from_cpp.dir/main.cpp.obj	77cc5954d5a70e3a
+4461	4930	6710747440002494	call_qml_from_cpp.exe	45c9aa270bf20f57

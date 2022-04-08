@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "JavaScript_File",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "JavaScript_File::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JavaScript_File-Debug-ee74dd617238081e6d80.json",
+					"name" : "JavaScript_File",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JavaScript_File_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JavaScript_File_autogen-Debug-fc871f9e8a7140311f9b.json",
+					"name" : "JavaScript_File_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JavaScript_File_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JavaScript_File_autogen_timestamp_deps-Debug-af98e9f37baa37e2eb53.json",
+					"name" : "JavaScript_File_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-JavaScript_File-Desktop_Qt_6_0_4_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/JavaScript_File"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

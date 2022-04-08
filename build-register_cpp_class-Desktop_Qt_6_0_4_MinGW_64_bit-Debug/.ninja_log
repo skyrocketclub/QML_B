@@ -1,0 +1,30 @@
+# ninja log v5
+2	1266	6711097580435819	register_cpp_class_autogen/timestamp	ca26544f17e38825
+2	1266	6711097580435819	register_cpp_class_autogen/mocs_compilation.cpp	ca26544f17e38825
+2	1266	6711097580435819	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/register_cpp_class_autogen/timestamp	ca26544f17e38825
+2	1266	6711097580435819	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/register_cpp_class_autogen/mocs_compilation.cpp	ca26544f17e38825
+1267	1336	6711097583163379	register_cpp_class_autogen/EWIEGA46WW/qrc_qml.cpp	91b9f3a1f457ee31
+1267	1336	6711097583163379	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/register_cpp_class_autogen/EWIEGA46WW/qrc_qml.cpp	91b9f3a1f457ee31
+1360	1486	6711097584640166	CMakeFiles/register_cpp_class.dir/register_cpp_class_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a48eb420a058485
+1336	4160	6711097611439647	CMakeFiles/register_cpp_class.dir/register_cpp_class_autogen/mocs_compilation.cpp.obj	2619725bd5a06314
+1352	4209	6711097611939407	CMakeFiles/register_cpp_class.dir/test.cpp.obj	b9591208c3bf26b0
+1365	4665	6711097616481754	CMakeFiles/register_cpp_class.dir/main.cpp.obj	9760d3491c44ad51
+4666	5056	6711097620330085	register_cpp_class.exe	f35b73d4c5793a51
+24	412	6711098941342397	register_cpp_class_autogen/timestamp	ca26544f17e38825
+24	412	6711098941342397	register_cpp_class_autogen/mocs_compilation.cpp	ca26544f17e38825
+24	412	6711098941342397	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/register_cpp_class_autogen/timestamp	ca26544f17e38825
+24	412	6711098941342397	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/register_cpp_class_autogen/mocs_compilation.cpp	ca26544f17e38825
+434	513	6711098942319777	register_cpp_class_autogen/EWIEGA46WW/qrc_qml.cpp	91b9f3a1f457ee31
+434	513	6711098942319777	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/register_cpp_class_autogen/EWIEGA46WW/qrc_qml.cpp	91b9f3a1f457ee31
+514	638	6711098943609670	CMakeFiles/register_cpp_class.dir/register_cpp_class_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a48eb420a058485
+518	3732	6711098974551216	CMakeFiles/register_cpp_class.dir/main.cpp.obj	9760d3491c44ad51
+3732	4081	6711098977930225	register_cpp_class.exe	f35b73d4c5793a51
+14	357	6711104991545756	register_cpp_class_autogen/timestamp	ca26544f17e38825
+14	357	6711104991545756	register_cpp_class_autogen/mocs_compilation.cpp	ca26544f17e38825
+14	357	6711104991545756	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/register_cpp_class_autogen/timestamp	ca26544f17e38825
+14	357	6711104991545756	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/register_cpp_class_autogen/mocs_compilation.cpp	ca26544f17e38825
+373	439	6711104992324194	register_cpp_class_autogen/EWIEGA46WW/qrc_qml.cpp	91b9f3a1f457ee31
+373	439	6711104992324194	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/register_cpp_class_autogen/EWIEGA46WW/qrc_qml.cpp	91b9f3a1f457ee31
+439	544	6711104993421675	CMakeFiles/register_cpp_class.dir/register_cpp_class_autogen/EWIEGA46WW/qrc_qml.cpp.obj	a48eb420a058485
+443	3438	6711105022338738	CMakeFiles/register_cpp_class.dir/main.cpp.obj	9760d3491c44ad51
+3438	3888	6711105026773065	register_cpp_class.exe	f35b73d4c5793a51

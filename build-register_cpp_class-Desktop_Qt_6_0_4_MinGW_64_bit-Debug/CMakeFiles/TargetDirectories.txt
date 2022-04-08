@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/register_cpp_class.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/register_cpp_class_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/register_cpp_class_autogen.dir

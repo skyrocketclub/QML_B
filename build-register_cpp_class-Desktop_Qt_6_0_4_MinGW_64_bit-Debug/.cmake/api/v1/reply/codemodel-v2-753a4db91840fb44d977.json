@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "register_cpp_class",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "register_cpp_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-register_cpp_class-Debug-6144da3e1dfad3f9ad15.json",
+					"name" : "register_cpp_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "register_cpp_class_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-register_cpp_class_autogen-Debug-e8222b516e1dff6d42da.json",
+					"name" : "register_cpp_class_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "register_cpp_class_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-register_cpp_class_autogen_timestamp_deps-Debug-f19c75bab6df7602be1e.json",
+					"name" : "register_cpp_class_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-register_cpp_class-Desktop_Qt_6_0_4_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/register_cpp_class"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

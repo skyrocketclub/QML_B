@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-QML_JavaScript_Functions-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/QML_JavaScript_Functions.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-QML_JavaScript_Functions-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-QML_JavaScript_Functions-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-QML_JavaScript_Functions-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/QML_JavaScript_Functions_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-QML_JavaScript_Functions-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/QML_JavaScript_Functions_autogen.dir
