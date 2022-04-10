@@ -1,0 +1,38 @@
+# ninja log v5
+3	614	6713114711821690	cpp_integration_example_autogen/timestamp	84d012fb728ab4a3
+3	614	6713114711821690	cpp_integration_example_autogen/mocs_compilation.cpp	84d012fb728ab4a3
+617	819	6713114716720319	cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp	9a9ec6249766c05f
+839	3303	6713114741681805	CMakeFiles/cpp_integration_example.dir/main.cpp.obj	819c8fb4feb29d4
+3	614	6713114711821690	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/timestamp	84d012fb728ab4a3
+3	614	6713114711821690	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/mocs_compilation.cpp	84d012fb728ab4a3
+820	935	6713114718015101	CMakeFiles/cpp_integration_example.dir/cpp_integration_example_autogen/mocs_compilation.cpp.obj	93b6def5d54c92ae
+617	819	6713114716720319	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp	9a9ec6249766c05f
+829	974	6713114718371677	CMakeFiles/cpp_integration_example.dir/cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d5c29c3c6ec05604
+3307	3585	6713114744475634	cpp_integration_example.exe	59ad0f2b4a2c9f71
+30	1294	6713133414250149	cpp_integration_example_autogen/timestamp	84d012fb728ab4a3
+30	1294	6713133414250149	cpp_integration_example_autogen/mocs_compilation.cpp	84d012fb728ab4a3
+30	1294	6713133414250149	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/timestamp	84d012fb728ab4a3
+30	1294	6713133414250149	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/mocs_compilation.cpp	84d012fb728ab4a3
+1295	1368	6713133417222796	cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp	9a9ec6249766c05f
+1295	1368	6713133417222796	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp	9a9ec6249766c05f
+1376	1491	6713133418468863	CMakeFiles/cpp_integration_example.dir/cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d5c29c3c6ec05604
+1372	4074	6713133444299781	CMakeFiles/cpp_integration_example.dir/machine.cpp.obj	6caedf9522ec008b
+1369	4135	6713133444918523	CMakeFiles/cpp_integration_example.dir/cpp_integration_example_autogen/mocs_compilation.cpp.obj	93b6def5d54c92ae
+4135	4508	6713133448578743	cpp_integration_example.exe	bf31ed35a61de358
+21	372	6713146754930411	cpp_integration_example_autogen/timestamp	84d012fb728ab4a3
+21	372	6713146754930411	cpp_integration_example_autogen/mocs_compilation.cpp	84d012fb728ab4a3
+21	372	6713146754930411	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/timestamp	84d012fb728ab4a3
+21	372	6713146754930411	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/mocs_compilation.cpp	84d012fb728ab4a3
+388	453	6713146755701653	cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp	9a9ec6249766c05f
+388	453	6713146755701653	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp	9a9ec6249766c05f
+453	569	6713146756899657	CMakeFiles/cpp_integration_example.dir/cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d5c29c3c6ec05604
+20	535	6713147017961522	cpp_integration_example_autogen/timestamp	84d012fb728ab4a3
+20	535	6713147017961522	cpp_integration_example_autogen/mocs_compilation.cpp	84d012fb728ab4a3
+20	535	6713147017961522	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/timestamp	84d012fb728ab4a3
+20	535	6713147017961522	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/mocs_compilation.cpp	84d012fb728ab4a3
+576	4666	6713147059490431	CMakeFiles/cpp_integration_example.dir/main.cpp.obj	819c8fb4feb29d4
+4667	5018	6713147062951175	cpp_integration_example.exe	bf31ed35a61de358
+43	216	6713147669865372	cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp	9a9ec6249766c05f
+43	216	6713147669865372	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_example-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp	9a9ec6249766c05f
+218	399	6713147671889125	CMakeFiles/cpp_integration_example.dir/cpp_integration_example_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d5c29c3c6ec05604
+401	841	6713147676237396	cpp_integration_example.exe	bf31ed35a61de358
