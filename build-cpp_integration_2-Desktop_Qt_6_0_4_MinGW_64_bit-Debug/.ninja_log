@@ -1,0 +1,34 @@
+# ninja log v5
+2	959	6713712376895912	cpp_integration_2_autogen/timestamp	1919a0503898a705
+2	959	6713712376895912	cpp_integration_2_autogen/mocs_compilation.cpp	1919a0503898a705
+2	959	6713712376895912	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_2_autogen/timestamp	1919a0503898a705
+2	959	6713712376895912	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_2_autogen/mocs_compilation.cpp	1919a0503898a705
+960	1023	6713712379548822	cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+960	1023	6713712379548822	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+1026	1184	6713712381084714	CMakeFiles/cpp_integration_2.dir/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	c351abfd7a2b1e42
+1030	3284	6713712402198220	CMakeFiles/cpp_integration_2.dir/cat.cpp.obj	ae49425a3b76cad0
+1023	3427	6713712403624414	CMakeFiles/cpp_integration_2.dir/cpp_integration_2_autogen/mocs_compilation.cpp.obj	403dbcf9c254f464
+1034	3673	6713712406077843	CMakeFiles/cpp_integration_2.dir/main.cpp.obj	2f55fa474c0cae48
+3674	3888	6713712408212147	cpp_integration_2.exe	fecfc9fbdd1749e0
+12	224	6713730608420715	cpp_integration_2_autogen/timestamp	1919a0503898a705
+12	224	6713730608420715	cpp_integration_2_autogen/mocs_compilation.cpp	1919a0503898a705
+12	224	6713730608420715	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_2_autogen/timestamp	1919a0503898a705
+12	224	6713730608420715	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_2_autogen/mocs_compilation.cpp	1919a0503898a705
+232	277	6713730608934922	cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+232	277	6713730608934922	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+279	332	6713730609501102	CMakeFiles/cpp_integration_2.dir/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	c351abfd7a2b1e42
+277	1700	6713730623184500	CMakeFiles/cpp_integration_2.dir/cat.cpp.obj	ae49425a3b76cad0
+281	2039	6713730626555019	CMakeFiles/cpp_integration_2.dir/main.cpp.obj	2f55fa474c0cae48
+2039	2258	6713730628724200	cpp_integration_2.exe	fecfc9fbdd1749e0
+13	62	6713731124486476	cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+13	62	6713731124486476	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+63	118	6713731125099921	CMakeFiles/cpp_integration_2.dir/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	c351abfd7a2b1e42
+119	348	6713731127357958	cpp_integration_2.exe	fecfc9fbdd1749e0
+5	52	6713732208616162	cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+5	52	6713732208616162	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+53	114	6713732209241901	CMakeFiles/cpp_integration_2.dir/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	c351abfd7a2b1e42
+115	336	6713732211436398	cpp_integration_2.exe	fecfc9fbdd1749e0
+9	58	6713732697760739	cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+9	58	6713732697760739	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-cpp_integration_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp	b394127a2ac9c004
+59	114	6713732698358343	CMakeFiles/cpp_integration_2.dir/cpp_integration_2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	c351abfd7a2b1e42
+114	356	6713732700729876	cpp_integration_2.exe	fecfc9fbdd1749e0
