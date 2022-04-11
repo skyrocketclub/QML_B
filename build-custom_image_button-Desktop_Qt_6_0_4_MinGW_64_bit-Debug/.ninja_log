@@ -1,0 +1,31 @@
+# ninja log v5
+5	596	6713953009869780	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-custom_image_button-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/custom_image_button_autogen/timestamp	bcfdd77075585c0e
+5	596	6713953009869780	custom_image_button_autogen/timestamp	bcfdd77075585c0e
+5	596	6713953009869780	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-custom_image_button-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/custom_image_button_autogen/mocs_compilation.cpp	bcfdd77075585c0e
+598	695	6713953012876942	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-custom_image_button-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+5	596	6713953009869780	custom_image_button_autogen/mocs_compilation.cpp	bcfdd77075585c0e
+598	695	6713953012876942	custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+695	806	6713953014053682	CMakeFiles/custom_image_button.dir/custom_image_button_autogen/mocs_compilation.cpp.obj	861605210522f626
+704	827	6713953014244806	CMakeFiles/custom_image_button.dir/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5cda52512c14bee0
+699	3250	6713953038464263	CMakeFiles/custom_image_button.dir/main.cpp.obj	e6cc2dbbe9e04d7d
+3258	3596	6713953041913996	custom_image_button.exe	ab1f696dea4bd523
+37	263	6713963914079318	custom_image_button_autogen/timestamp	bcfdd77075585c0e
+37	263	6713963914079318	custom_image_button_autogen/mocs_compilation.cpp	bcfdd77075585c0e
+37	263	6713963914079318	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-custom_image_button-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/custom_image_button_autogen/timestamp	bcfdd77075585c0e
+37	263	6713963914079318	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-custom_image_button-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/custom_image_button_autogen/mocs_compilation.cpp	bcfdd77075585c0e
+273	409	6713963915366150	custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+273	409	6713963915366150	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-custom_image_button-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+410	601	6713963917469494	CMakeFiles/custom_image_button.dir/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5cda52512c14bee0
+602	887	6713963920252238	custom_image_button.exe	ab1f696dea4bd523
+38	230	6713965096591593	custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+38	230	6713965096591593	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-custom_image_button-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+231	432	6713965098814998	CMakeFiles/custom_image_button.dir/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5cda52512c14bee0
+433	715	6713965101595852	custom_image_button.exe	ab1f696dea4bd523
+26	206	6713966299050402	custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+26	206	6713966299050402	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-custom_image_button-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+207	407	6713966301244341	CMakeFiles/custom_image_button.dir/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5cda52512c14bee0
+408	694	6713966304079104	custom_image_button.exe	ab1f696dea4bd523
+11	93	6713966808483234	custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+11	93	6713966808483234	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-custom_image_button-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp	58ebb57ea5026e88
+94	251	6713966810090179	CMakeFiles/custom_image_button.dir/custom_image_button_autogen/EWIEGA46WW/qrc_qml.cpp.obj	5cda52512c14bee0
+252	544	6713966813008651	custom_image_button.exe	ab1f696dea4bd523

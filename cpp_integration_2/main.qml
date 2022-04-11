@@ -9,47 +9,7 @@ Window {
     height: 480
     visible: true
     title: qsTr("Hello World")
-    /*
-    Popup{
-        id: popup
-        anchors.centerIn: parent
-        width: 200
-        height: 200
-        modal: true //When this pops up, you cannot interact with anything else...
-        focus: true
-        closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
 
-        Column {
-
-            anchors.fill: parent
-            spacing: 25
-            anchors.rightMargin: -5
-            anchors.bottomMargin: -5
-            anchors.leftMargin: 5
-            anchors.topMargin: 5
-
-           Label{
-               id: lblbutter
-               text: "Butter = " + chkButter.checked
-           }
-
-           Label{
-               id: lblSyrup
-               text: "Syrup = " + chkSyrup.checked
-           }
-           Label{
-               id: lblFruit
-               text: "Fruit = " + chkFruit.checked
-           }
-           Button{
-               id:closeButton
-               text: "Close"
-               onClicked: popup.visible = false
-           }
-        }
-
-    }
-      */
 
     Popup{
         id:pop1
