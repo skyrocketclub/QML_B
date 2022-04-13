@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Owner_drawn_ComboBox-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Owner_drawn_ComboBox_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Owner_drawn_ComboBox-Desktop_Qt_6_0_4_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Owner_drawn_ComboBox-Desktop_Qt_6_0_4_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Owner_drawn_ComboBox",
+	"CMAKE_SOURCE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Owner_drawn_ComboBox",
+	"INCLUDE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Owner_drawn_ComboBox-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Owner_drawn_ComboBox_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Owner_drawn_ComboBox/main.qml",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Owner_drawn_ComboBox/ColorCombo.qml"
+	],
+	"LOCK_FILE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Owner_drawn_ComboBox-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Owner_drawn_ComboBox_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.0.4/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Owner_drawn_ComboBox-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Owner_drawn_ComboBox_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Owner_drawn_ComboBox/qml.qrc",
+	"VERBOSITY" : 0
+}

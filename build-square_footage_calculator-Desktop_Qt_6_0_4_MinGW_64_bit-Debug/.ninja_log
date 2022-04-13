@@ -1,0 +1,15 @@
+# ninja log v5
+3	484	6715522018550874	square_footage_calculator_autogen/timestamp	8b6557f7f66e0b03
+3	484	6715522018550874	square_footage_calculator_autogen/mocs_compilation.cpp	8b6557f7f66e0b03
+3	484	6715522018550874	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-square_footage_calculator-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/square_footage_calculator_autogen/timestamp	8b6557f7f66e0b03
+3	484	6715522018550874	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-square_footage_calculator-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/square_footage_calculator_autogen/mocs_compilation.cpp	8b6557f7f66e0b03
+486	611	6715522021754784	square_footage_calculator_autogen/EWIEGA46WW/qrc_qml.cpp	bdc3010c5c60417c
+486	611	6715522021754784	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-square_footage_calculator-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/square_footage_calculator_autogen/EWIEGA46WW/qrc_qml.cpp	bdc3010c5c60417c
+612	786	6715522023711129	CMakeFiles/square_footage_calculator.dir/square_footage_calculator_autogen/mocs_compilation.cpp.obj	4f06470a1cf6c61e
+662	840	6715522024181758	CMakeFiles/square_footage_calculator.dir/square_footage_calculator_autogen/EWIEGA46WW/qrc_qml.cpp.obj	ac9f0328618938e2
+631	3209	6715522047924674	CMakeFiles/square_footage_calculator.dir/main.cpp.obj	de4f7dcaf7285784
+3214	3481	6715522050600141	square_footage_calculator.exe	7b407de763f959a0
+16	90	6715526016925822	square_footage_calculator_autogen/EWIEGA46WW/qrc_qml.cpp	bdc3010c5c60417c
+16	90	6715526016925822	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-square_footage_calculator-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/square_footage_calculator_autogen/EWIEGA46WW/qrc_qml.cpp	bdc3010c5c60417c
+91	272	6715526018793170	CMakeFiles/square_footage_calculator.dir/square_footage_calculator_autogen/EWIEGA46WW/qrc_qml.cpp.obj	ac9f0328618938e2
+274	605	6715526022090315	square_footage_calculator.exe	7b407de763f959a0

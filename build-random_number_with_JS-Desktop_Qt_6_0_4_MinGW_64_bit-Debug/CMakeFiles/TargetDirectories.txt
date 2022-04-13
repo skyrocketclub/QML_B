@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-random_number_with_JS-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/random_number_with_JS.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-random_number_with_JS-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-random_number_with_JS-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-random_number_with_JS-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/random_number_with_JS_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-random_number_with_JS-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/random_number_with_JS_autogen.dir

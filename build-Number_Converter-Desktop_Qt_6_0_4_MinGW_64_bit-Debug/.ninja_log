@@ -1,0 +1,27 @@
+# ninja log v5
+6	469	6715537509208988	Number_Converter_autogen/timestamp	b6d1c31590e55e34
+6	469	6715537509208988	Number_Converter_autogen/mocs_compilation.cpp	b6d1c31590e55e34
+6	469	6715537509208988	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Number_Converter-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Number_Converter_autogen/timestamp	b6d1c31590e55e34
+6	469	6715537509208988	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Number_Converter-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Number_Converter_autogen/mocs_compilation.cpp	b6d1c31590e55e34
+472	640	6715537513417337	Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+472	640	6715537513417337	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Number_Converter-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+641	750	6715537514554290	CMakeFiles/Number_Converter.dir/Number_Converter_autogen/mocs_compilation.cpp.obj	8592aedb4c151a67
+660	784	6715537514883454	CMakeFiles/Number_Converter.dir/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3d09cceea11e1567
+669	3259	6715537539647172	CMakeFiles/Number_Converter.dir/main.cpp.obj	5f1f8cdfe0f66460
+3264	3515	6715537542160850	Number_Converter.exe	253690386fce4873
+18	116	6715546069404697	Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+18	116	6715546069404697	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Number_Converter-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+118	284	6715546071152356	CMakeFiles/Number_Converter.dir/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3d09cceea11e1567
+285	634	6715546074621022	Number_Converter.exe	253690386fce4873
+13	110	6715546771934709	Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+13	110	6715546771934709	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Number_Converter-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+112	317	6715546774034148	CMakeFiles/Number_Converter.dir/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3d09cceea11e1567
+319	739	6715546778277548	Number_Converter.exe	253690386fce4873
+14	111	6715547432965551	Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+14	111	6715547432965551	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Number_Converter-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+112	268	6715547434601193	CMakeFiles/Number_Converter.dir/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3d09cceea11e1567
+270	617	6715547438063182	Number_Converter.exe	253690386fce4873
+9	75	6715551700177427	Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+9	75	6715551700177427	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Number_Converter-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp	cf6f453e85f26e41
+76	206	6715551701514004	CMakeFiles/Number_Converter.dir/Number_Converter_autogen/EWIEGA46WW/qrc_qml.cpp.obj	3d09cceea11e1567
+208	515	6715551704566267	Number_Converter.exe	253690386fce4873

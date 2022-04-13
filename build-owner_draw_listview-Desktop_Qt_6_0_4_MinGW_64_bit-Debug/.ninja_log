@@ -1,0 +1,39 @@
+# ninja log v5
+1	152	6715436286399271	owner_draw_listview_autogen/timestamp	f7dfed8dca291490
+1	152	6715436286399271	owner_draw_listview_autogen/mocs_compilation.cpp	f7dfed8dca291490
+1	152	6715436286399271	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/timestamp	f7dfed8dca291490
+1	152	6715436286399271	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/mocs_compilation.cpp	f7dfed8dca291490
+153	202	6715436287424132	owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+153	202	6715436287424132	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+203	259	6715436288032721	CMakeFiles/owner_draw_listview.dir/owner_draw_listview_autogen/mocs_compilation.cpp.obj	89f33c3d5993f943
+213	283	6715436288262106	CMakeFiles/owner_draw_listview.dir/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp.obj	cdf7c41b8c19808c
+218	1824	6715436303671181	CMakeFiles/owner_draw_listview.dir/main.cpp.obj	fe8a59f37ac774a2
+1829	1985	6715436305249391	owner_draw_listview.exe	3983f50b42da1003
+16	65	6715436321543443	owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+16	65	6715436321543443	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+65	124	6715436322165380	CMakeFiles/owner_draw_listview.dir/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp.obj	cdf7c41b8c19808c
+125	271	6715436323580524	owner_draw_listview.exe	3983f50b42da1003
+5	50	6715437666921169	owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+5	50	6715437666921169	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+50	116	6715437667615326	CMakeFiles/owner_draw_listview.dir/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp.obj	cdf7c41b8c19808c
+117	270	6715437669111519	owner_draw_listview.exe	3983f50b42da1003
+4	49	6715438216142266	owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+4	49	6715438216142266	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+49	131	6715438217001605	CMakeFiles/owner_draw_listview.dir/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp.obj	cdf7c41b8c19808c
+131	281	6715438218458213	owner_draw_listview.exe	3983f50b42da1003
+5	48	6715438442697879	owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+5	48	6715438442697879	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+48	112	6715438443376141	CMakeFiles/owner_draw_listview.dir/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp.obj	cdf7c41b8c19808c
+112	260	6715438444817239	owner_draw_listview.exe	3983f50b42da1003
+5	51	6715438750829872	owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+5	51	6715438750829872	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+52	143	6715438751798127	CMakeFiles/owner_draw_listview.dir/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp.obj	cdf7c41b8c19808c
+144	290	6715438753224761	owner_draw_listview.exe	3983f50b42da1003
+5	52	6715439709284883	owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+5	52	6715439709284883	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+53	120	6715439710018397	CMakeFiles/owner_draw_listview.dir/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp.obj	cdf7c41b8c19808c
+121	268	6715439711462654	owner_draw_listview.exe	3983f50b42da1003
+6	53	6715439968606067	owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+6	53	6715439968606067	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-owner_draw_listview-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp	69c36eb3c43eb022
+53	135	6715439969460231	CMakeFiles/owner_draw_listview.dir/owner_draw_listview_autogen/EWIEGA46WW/qrc_qml.cpp.obj	cdf7c41b8c19808c
+136	283	6715439970893165	owner_draw_listview.exe	3983f50b42da1003

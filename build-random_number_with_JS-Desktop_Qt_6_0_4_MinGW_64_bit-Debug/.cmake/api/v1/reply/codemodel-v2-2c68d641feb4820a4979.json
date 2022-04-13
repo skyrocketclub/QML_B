@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "random_number_with_JS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "random_number_with_JS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_number_with_JS-Debug-37e99786738144b231d0.json",
+					"name" : "random_number_with_JS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_number_with_JS_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_number_with_JS_autogen-Debug-90b17cbd8cbf465bc2c9.json",
+					"name" : "random_number_with_JS_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "random_number_with_JS_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-random_number_with_JS_autogen_timestamp_deps-Debug-f2603fc0e3697f99e66b.json",
+					"name" : "random_number_with_JS_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-random_number_with_JS-Desktop_Qt_6_0_4_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/random_number_with_JS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

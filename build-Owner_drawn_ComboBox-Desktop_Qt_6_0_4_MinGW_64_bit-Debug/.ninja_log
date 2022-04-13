@@ -1,0 +1,11 @@
+# ninja log v5
+2	162	6715429639606719	Owner_drawn_ComboBox_autogen/timestamp	380292dc09542348
+2	162	6715429639606719	Owner_drawn_ComboBox_autogen/mocs_compilation.cpp	380292dc09542348
+2	162	6715429639606719	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Owner_drawn_ComboBox-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Owner_drawn_ComboBox_autogen/timestamp	380292dc09542348
+2	162	6715429639606719	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Owner_drawn_ComboBox-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Owner_drawn_ComboBox_autogen/mocs_compilation.cpp	380292dc09542348
+162	209	6715429640574454	Owner_drawn_ComboBox_autogen/EWIEGA46WW/qrc_qml.cpp	e57c6bc09a88c8cd
+162	209	6715429640574454	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Owner_drawn_ComboBox-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Owner_drawn_ComboBox_autogen/EWIEGA46WW/qrc_qml.cpp	e57c6bc09a88c8cd
+210	273	6715429641237699	CMakeFiles/Owner_drawn_ComboBox.dir/Owner_drawn_ComboBox_autogen/mocs_compilation.cpp.obj	45180bfa4eb32c88
+212	286	6715429641377325	CMakeFiles/Owner_drawn_ComboBox.dir/Owner_drawn_ComboBox_autogen/EWIEGA46WW/qrc_qml.cpp.obj	2673a071738537bc
+216	1833	6715429656836344	CMakeFiles/Owner_drawn_ComboBox.dir/main.cpp.obj	4294bc6ffbc224e3
+1836	1994	6715429658415265	Owner_drawn_ComboBox.exe	26b92d42160c09a
