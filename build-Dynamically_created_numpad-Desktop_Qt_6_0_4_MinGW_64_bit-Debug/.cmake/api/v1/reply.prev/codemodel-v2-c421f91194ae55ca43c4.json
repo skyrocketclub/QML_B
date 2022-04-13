@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Dynamically_created_numpad",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamically_created_numpad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamically_created_numpad-Debug-a6d02bc080121e3a4668.json",
+					"name" : "Dynamically_created_numpad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamically_created_numpad_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamically_created_numpad_autogen-Debug-96b14d4cbbb961cbba6b.json",
+					"name" : "Dynamically_created_numpad_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamically_created_numpad_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamically_created_numpad_autogen_timestamp_deps-Debug-6b54c1e89d45f9b1cf4b.json",
+					"name" : "Dynamically_created_numpad_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Dynamically_created_numpad-Desktop_Qt_6_0_4_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Dynamically_created_numpad"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

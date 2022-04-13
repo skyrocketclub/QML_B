@@ -7,7 +7,8 @@
 	"INCLUDE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Dynamically_created_numpad-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Dynamically_created_numpad_autogen/include",
 	"INPUTS" : 
 	[
-		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Dynamically_created_numpad/main.qml"
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Dynamically_created_numpad/main.qml",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Dynamically_created_numpad/NumberPad.qml"
 	],
 	"LOCK_FILE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Dynamically_created_numpad-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Dynamically_created_numpad_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,

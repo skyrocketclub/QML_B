@@ -1,0 +1,27 @@
+# ninja log v5
+3	335	6715066072922311	login_component_autogen/timestamp	6dcf77c18fcfdd2a
+3	335	6715066072922311	login_component_autogen/mocs_compilation.cpp	6dcf77c18fcfdd2a
+12	109	6715072150234205	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-login_component-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/login_component_autogen/EWIEGA46WW/qrc_qml.cpp	d072b56054b58a32
+3	335	6715066072922311	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-login_component-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/login_component_autogen/timestamp	6dcf77c18fcfdd2a
+3	335	6715066072922311	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-login_component-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/login_component_autogen/mocs_compilation.cpp	6dcf77c18fcfdd2a
+12	109	6715072150234205	login_component_autogen/EWIEGA46WW/qrc_qml.cpp	d072b56054b58a32
+420	562	6715066076712954	CMakeFiles/login_component.dir/login_component_autogen/mocs_compilation.cpp.obj	13bc99a55dcbb542
+110	239	6715072151611451	CMakeFiles/login_component.dir/login_component_autogen/EWIEGA46WW/qrc_qml.cpp.obj	82ff6a5bee226a1e
+443	3125	6715066102364742	CMakeFiles/login_component.dir/main.cpp.obj	6b90574470886685
+240	536	6715072154541535	login_component.exe	c9aa3e4f55985909
+10	291	6715073281895239	login_component_autogen/timestamp	6dcf77c18fcfdd2a
+10	291	6715073281895239	login_component_autogen/mocs_compilation.cpp	6dcf77c18fcfdd2a
+10	291	6715073281895239	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-login_component-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/login_component_autogen/timestamp	6dcf77c18fcfdd2a
+10	291	6715073281895239	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-login_component-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/login_component_autogen/mocs_compilation.cpp	6dcf77c18fcfdd2a
+297	399	6715073282885599	login_component_autogen/EWIEGA46WW/qrc_qml.cpp	d072b56054b58a32
+297	399	6715073282885599	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-login_component-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/login_component_autogen/EWIEGA46WW/qrc_qml.cpp	d072b56054b58a32
+400	530	6715073284274229	CMakeFiles/login_component.dir/login_component_autogen/EWIEGA46WW/qrc_qml.cpp.obj	82ff6a5bee226a1e
+531	849	6715073287426715	login_component.exe	c9aa3e4f55985909
+15	101	6715073730268976	login_component_autogen/EWIEGA46WW/qrc_qml.cpp	d072b56054b58a32
+15	101	6715073730268976	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-login_component-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/login_component_autogen/EWIEGA46WW/qrc_qml.cpp	d072b56054b58a32
+102	229	6715073731615375	CMakeFiles/login_component.dir/login_component_autogen/EWIEGA46WW/qrc_qml.cpp.obj	82ff6a5bee226a1e
+230	531	6715073734605451	login_component.exe	c9aa3e4f55985909
+12	110	6715074367327630	login_component_autogen/EWIEGA46WW/qrc_qml.cpp	d072b56054b58a32
+12	110	6715074367327630	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-login_component-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/login_component_autogen/EWIEGA46WW/qrc_qml.cpp	d072b56054b58a32
+111	267	6715074368938263	CMakeFiles/login_component.dir/login_component_autogen/EWIEGA46WW/qrc_qml.cpp.obj	82ff6a5bee226a1e
+269	612	6715074372392323	login_component.exe	c9aa3e4f55985909
