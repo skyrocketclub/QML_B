@@ -1,0 +1,31 @@
+# ninja log v5
+2	395	6715905539610228	Random_Dinner_Application_autogen/timestamp	c3f4fbf43aa9ff03
+2	395	6715905539610228	Random_Dinner_Application_autogen/mocs_compilation.cpp	c3f4fbf43aa9ff03
+2	395	6715905539610228	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Random_Dinner_Application_autogen/timestamp	c3f4fbf43aa9ff03
+2	395	6715905539610228	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Random_Dinner_Application_autogen/mocs_compilation.cpp	c3f4fbf43aa9ff03
+397	504	6715905542469728	Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+397	504	6715905542469728	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+505	650	6715905543979168	CMakeFiles/Random_Dinner_Application.dir/Random_Dinner_Application_autogen/mocs_compilation.cpp.obj	843d76fc77d95c6a
+532	699	6715905544469100	CMakeFiles/Random_Dinner_Application.dir/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d3ef9483752a17db
+549	3590	6715905573379758	CMakeFiles/Random_Dinner_Application.dir/main.cpp.obj	f9ec8acd1eb31885
+3595	3883	6715905576272021	Random_Dinner_Application.exe	91cbfbb92f3289e6
+20	120	6715907172153440	Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+20	120	6715907172153440	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+120	251	6715907173527692	CMakeFiles/Random_Dinner_Application.dir/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d3ef9483752a17db
+252	570	6715907176686233	Random_Dinner_Application.exe	91cbfbb92f3289e6
+16	114	6715907408776605	Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+16	114	6715907408776605	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+115	294	6715907410657693	CMakeFiles/Random_Dinner_Application.dir/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d3ef9483752a17db
+295	612	6715907413739476	Random_Dinner_Application.exe	91cbfbb92f3289e6
+10	90	6715909709612834	Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+10	90	6715909709612834	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+91	215	6715909710911899	CMakeFiles/Random_Dinner_Application.dir/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d3ef9483752a17db
+217	506	6715909713771715	Random_Dinner_Application.exe	91cbfbb92f3289e6
+16	142	6715913296746684	Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+16	142	6715913296746684	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+143	332	6715913298746259	CMakeFiles/Random_Dinner_Application.dir/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d3ef9483752a17db
+334	674	6715913302122350	Random_Dinner_Application.exe	91cbfbb92f3289e6
+14	119	6715913575985034	Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+14	119	6715913575985034	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp	4d2b7c422d64e8ea
+120	254	6715913577432409	CMakeFiles/Random_Dinner_Application.dir/Random_Dinner_Application_autogen/EWIEGA46WW/qrc_qml.cpp.obj	d3ef9483752a17db
+255	599	6715913580850827	Random_Dinner_Application.exe	91cbfbb92f3289e6

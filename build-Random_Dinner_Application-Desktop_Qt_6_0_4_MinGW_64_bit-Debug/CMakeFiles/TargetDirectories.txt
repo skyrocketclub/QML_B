@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Random_Dinner_Application.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Random_Dinner_Application_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Random_Dinner_Application-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Random_Dinner_Application_autogen.dir

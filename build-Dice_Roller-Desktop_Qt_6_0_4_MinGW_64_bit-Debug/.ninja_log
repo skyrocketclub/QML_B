@@ -1,0 +1,23 @@
+# ninja log v5
+6	356	6715885656036489	Dice_Roller_autogen/timestamp	c07a62f06e70b9fb
+6	356	6715885656036489	Dice_Roller_autogen/mocs_compilation.cpp	c07a62f06e70b9fb
+6	356	6715885656036489	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Dice_Roller-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Dice_Roller_autogen/timestamp	c07a62f06e70b9fb
+6	356	6715885656036489	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Dice_Roller-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Dice_Roller_autogen/mocs_compilation.cpp	c07a62f06e70b9fb
+357	457	6715885658538258	Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp	b2a4cd40e0505227
+357	457	6715885658538258	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Dice_Roller-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp	b2a4cd40e0505227
+468	602	6715885660034230	CMakeFiles/Dice_Roller.dir/Dice_Roller_autogen/mocs_compilation.cpp.obj	6b56415d0d7d8804
+473	652	6715885660443581	CMakeFiles/Dice_Roller.dir/Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp.obj	6b856116521e5a39
+459	3248	6715885686513877	CMakeFiles/Dice_Roller.dir/main.cpp.obj	4fa6bc7cded7b0cf
+3255	3508	6715885689076524	Dice_Roller.exe	3bb1bf573852066e
+26	162	6715888343705625	Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp	b2a4cd40e0505227
+26	162	6715888343705625	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Dice_Roller-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp	b2a4cd40e0505227
+164	380	6715888345961470	CMakeFiles/Dice_Roller.dir/Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp.obj	6b856116521e5a39
+382	795	6715888350090746	Dice_Roller.exe	3bb1bf573852066e
+12	93	6715892254440671	Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp	b2a4cd40e0505227
+12	93	6715892254440671	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Dice_Roller-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp	b2a4cd40e0505227
+94	237	6715892255936593	CMakeFiles/Dice_Roller.dir/Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp.obj	6b856116521e5a39
+238	570	6715892259210283	Dice_Roller.exe	3bb1bf573852066e
+34	224	6715896134892748	Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp	b2a4cd40e0505227
+34	224	6715896134892748	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Dice_Roller-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp	b2a4cd40e0505227
+227	522	6715896137953876	CMakeFiles/Dice_Roller.dir/Dice_Roller_autogen/EWIEGA46WW/qrc_qml.cpp.obj	6b856116521e5a39
+524	1048	6715896143259657	Dice_Roller.exe	3bb1bf573852066e
