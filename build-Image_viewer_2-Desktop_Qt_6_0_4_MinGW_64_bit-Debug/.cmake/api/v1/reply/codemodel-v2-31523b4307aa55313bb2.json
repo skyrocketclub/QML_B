@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Image_viewer_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Image_viewer_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Image_viewer_2-Debug-02c53181dc9c3c7a05ec.json",
+					"name" : "Image_viewer_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Image_viewer_2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Image_viewer_2_autogen-Debug-460b94871dda5ef280d8.json",
+					"name" : "Image_viewer_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Image_viewer_2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Image_viewer_2_autogen_timestamp_deps-Debug-e1fb81395d8f22088cbd.json",
+					"name" : "Image_viewer_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Image_viewer_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

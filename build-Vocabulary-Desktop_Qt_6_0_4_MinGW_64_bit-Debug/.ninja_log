@@ -1,0 +1,11 @@
+# ninja log v5
+5	486	6719966296133228	Vocabulary_autogen/timestamp	e6c0415eedb819be
+5	486	6719966296133228	Vocabulary_autogen/mocs_compilation.cpp	e6c0415eedb819be
+5	486	6719966296133228	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Vocabulary-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Vocabulary_autogen/timestamp	e6c0415eedb819be
+489	690	6719966299234961	Vocabulary_autogen/EWIEGA46WW/qrc_qml.cpp	d666a5d430132d59
+5	486	6719966296133228	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Vocabulary-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Vocabulary_autogen/mocs_compilation.cpp	e6c0415eedb819be
+702	2997	6719966321607132	CMakeFiles/Vocabulary.dir/Vocabulary_autogen/EWIEGA46WW/qrc_qml.cpp.obj	edae1ee4c08450f4
+489	690	6719966299234961	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Vocabulary-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Vocabulary_autogen/EWIEGA46WW/qrc_qml.cpp	d666a5d430132d59
+697	3036	6719966322008281	CMakeFiles/Vocabulary.dir/Vocabulary_autogen/mocs_compilation.cpp.obj	31cb351298fa8ca8
+691	6293	6719966355237188	CMakeFiles/Vocabulary.dir/main.cpp.obj	8dc97a0aa1a46068
+6303	7006	6719966362270884	Vocabulary.exe	4fbf01998d3274f1

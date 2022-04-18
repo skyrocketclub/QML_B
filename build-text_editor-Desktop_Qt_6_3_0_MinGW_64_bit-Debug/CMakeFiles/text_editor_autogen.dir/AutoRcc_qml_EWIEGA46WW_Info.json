@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor",
+	"CMAKE_SOURCE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor",
+	"INCLUDE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor/main.qml",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor/outlines/oOpen.png",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor/outlines/oCut.png",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor/outlines/oPaste.png",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor/outlines/oCopy.png",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor/outlines/oSave.png",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor/outlines/oNew.png"
+	],
+	"LOCK_FILE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/text_editor_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/text_editor_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor/qml.qrc",
+	"VERBOSITY" : 0
+}

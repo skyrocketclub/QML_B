@@ -1,0 +1,43 @@
+# ninja log v5
+24	126	6719799114298642	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+3	66	6719771404216740	.qt_plugins/Qt6_QmlPlugins_Imports_text_editor.cmake	409e691f6f63d91e
+264	627	6719799119348653	text_editor.exe	8c1e62edbcfbb776
+24	126	6719799114298642	text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+3	66	6719771404216740	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_text_editor.cmake	409e691f6f63d91e
+25	431	6719782339983587	text_editor_autogen/timestamp	bc5a72fbfe3c00f1
+25	431	6719782339983587	text_editor_autogen/mocs_compilation.cpp	bc5a72fbfe3c00f1
+25	431	6719782339983587	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/timestamp	bc5a72fbfe3c00f1
+25	431	6719782339983587	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/mocs_compilation.cpp	bc5a72fbfe3c00f1
+127	263	6719799115779366	CMakeFiles/text_editor.dir/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp.obj	66a0cd179ff3aa26
+1924	5483	6719771458389724	CMakeFiles/text_editor.dir/backend.cpp.obj	68b7a6ec5bbb61ee
+1922	5490	6719771458409681	CMakeFiles/text_editor.dir/text_editor_autogen/mocs_compilation.cpp.obj	3abb0059bc043bec
+501	4175	6719773769523957	CMakeFiles/text_editor.dir/main.cpp.obj	25981c82166cb9de
+14	122	6719799236906303	text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+14	122	6719799236906303	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+123	254	6719799238332570	CMakeFiles/text_editor.dir/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp.obj	66a0cd179ff3aa26
+255	633	6719799242052591	text_editor.exe	8c1e62edbcfbb776
+9	86	6719800040443673	text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+9	86	6719800040443673	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+87	201	6719800041652262	CMakeFiles/text_editor.dir/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp.obj	66a0cd179ff3aa26
+202	583	6719800045413456	text_editor.exe	8c1e62edbcfbb776
+27	154	6719808211647370	text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+27	154	6719808211647370	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+155	338	6719808213585056	CMakeFiles/text_editor.dir/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp.obj	66a0cd179ff3aa26
+340	836	6719808218510296	text_editor.exe	8c1e62edbcfbb776
+17	125	6719811094603558	text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+17	125	6719811094603558	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+125	309	6719811096508127	CMakeFiles/text_editor.dir/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp.obj	66a0cd179ff3aa26
+310	678	6719811100132241	text_editor.exe	8c1e62edbcfbb776
+25	133	6719815551314340	text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+25	133	6719815551314340	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+134	322	6719815553299216	CMakeFiles/text_editor.dir/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp.obj	66a0cd179ff3aa26
+323	764	6719815557584764	text_editor.exe	8c1e62edbcfbb776
+10	443	6719816839259495	text_editor_autogen/timestamp	bc5a72fbfe3c00f1
+10	443	6719816839259495	text_editor_autogen/mocs_compilation.cpp	bc5a72fbfe3c00f1
+10	443	6719816839259495	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/timestamp	bc5a72fbfe3c00f1
+10	443	6719816839259495	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/mocs_compilation.cpp	bc5a72fbfe3c00f1
+468	555	6719816840336623	text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+468	555	6719816840336623	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp	8885f06b5ab753ce
+555	712	6719816841967359	CMakeFiles/text_editor.dir/text_editor_autogen/EWIEGA46WW/qrc_qml.cpp.obj	66a0cd179ff3aa26
+559	3856	6719816873398184	CMakeFiles/text_editor.dir/backend.cpp.obj	68b7a6ec5bbb61ee
+3856	4275	6719816877547498	text_editor.exe	8c1e62edbcfbb776

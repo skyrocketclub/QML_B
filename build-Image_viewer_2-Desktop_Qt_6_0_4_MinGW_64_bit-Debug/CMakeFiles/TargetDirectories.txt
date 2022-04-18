@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Image_viewer_2.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Image_viewer_2_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Image_viewer_2_autogen.dir

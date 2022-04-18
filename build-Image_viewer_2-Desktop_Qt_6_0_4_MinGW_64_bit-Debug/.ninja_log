@@ -1,0 +1,26 @@
+# ninja log v5
+217	3080	6717549945108072	CMakeFiles/Image_viewer_2.dir/Image_viewer_2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	f56e52f29cbb41d
+25	604	6717547518551342	Image_viewer_2_autogen/timestamp	37fb6c8def224c52
+16	216	6717549916464669	Image_viewer_2_autogen/EWIEGA46WW/qrc_qml.cpp	ffc9e332e804aca
+25	604	6717547518551342	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Image_viewer_2_autogen/mocs_compilation.cpp	37fb6c8def224c52
+25	604	6717547518551342	Image_viewer_2_autogen/mocs_compilation.cpp	37fb6c8def224c52
+25	604	6717547518551342	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Image_viewer_2_autogen/timestamp	37fb6c8def224c52
+16	216	6717549916464669	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Image_viewer_2_autogen/EWIEGA46WW/qrc_qml.cpp	ffc9e332e804aca
+658	3976	6717471004544165	CMakeFiles/Image_viewer_2.dir/Image_viewer_2_autogen/mocs_compilation.cpp.obj	f08047e4569a584e
+1645	5740	6717461761914547	CMakeFiles/Image_viewer_2.dir/main.cpp.obj	affc7eaa8fa74dd5
+3082	3662	6717549950914033	Image_viewer_2.exe	472bf458c967d958
+316	2468	6717244525208331	CMakeFiles/Image_viewer_2.dir/dirhelper.cpp.obj	23bda3eef39e7a0
+1652	5455	6717461759047760	CMakeFiles/Image_viewer_2.dir/dirhelp.cpp.obj	42aa1e0b49fe61a7
+15	1186	6717551125732944	build.ninja	52e215cb1a490496
+10	332	6717551142592717	Image_viewer_2_autogen/timestamp	37fb6c8def224c52
+10	332	6717551142592717	Image_viewer_2_autogen/mocs_compilation.cpp	37fb6c8def224c52
+10	332	6717551142592717	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Image_viewer_2_autogen/timestamp	37fb6c8def224c52
+10	332	6717551142592717	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Image_viewer_2_autogen/mocs_compilation.cpp	37fb6c8def224c52
+351	503	6717551144248307	Image_viewer_2_autogen/EWIEGA46WW/qrc_qml.cpp	ffc9e332e804aca
+351	503	6717551144248307	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Image_viewer_2_autogen/EWIEGA46WW/qrc_qml.cpp	ffc9e332e804aca
+504	2406	6717551163332189	CMakeFiles/Image_viewer_2.dir/Image_viewer_2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	f56e52f29cbb41d
+2407	2940	6717551168613143	Image_viewer_2.exe	472bf458c967d958
+24	231	6717596633438393	Image_viewer_2_autogen/EWIEGA46WW/qrc_qml.cpp	ffc9e332e804aca
+24	231	6717596633438393	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Image_viewer_2_autogen/EWIEGA46WW/qrc_qml.cpp	ffc9e332e804aca
+231	1820	6717596649355730	CMakeFiles/Image_viewer_2.dir/Image_viewer_2_autogen/EWIEGA46WW/qrc_qml.cpp.obj	f56e52f29cbb41d
+1821	2437	6717596655494922	Image_viewer_2.exe	472bf458c967d958

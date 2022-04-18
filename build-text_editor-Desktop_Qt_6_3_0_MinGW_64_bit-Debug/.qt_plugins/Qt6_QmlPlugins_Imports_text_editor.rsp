@@ -1,0 +1,8 @@
+-rootPath
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor
+-cmake-output
+-output-file
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_text_editor.cmake
+-importPath
+C:/Qt/6.3.0/mingw_64/./qml
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug

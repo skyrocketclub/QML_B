@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "text_editor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "text_editor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text_editor-Debug-c62e5a090c2b1a969f50.json",
+					"name" : "text_editor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text_editor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text_editor_autogen-Debug-bc6932ce103789e0ed94.json",
+					"name" : "text_editor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text_editor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text_editor_autogen_timestamp_deps-Debug-1e249e470015dd2feb7a.json",
+					"name" : "text_editor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "text_editor_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-text_editor_qmlimportscan-Debug-25e9f21acada01bed4f9.json",
+					"name" : "text_editor_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-text_editor-Desktop_Qt_6_3_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/text_editor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

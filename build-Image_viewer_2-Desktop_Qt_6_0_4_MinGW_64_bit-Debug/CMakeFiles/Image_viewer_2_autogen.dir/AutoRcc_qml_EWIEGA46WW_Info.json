@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Image_viewer_2_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Image_viewer_2",
+	"CMAKE_SOURCE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Image_viewer_2",
+	"INCLUDE_DIR" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/Image_viewer_2_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Image_viewer_2/main.qml",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Image_viewer_2/ImagePage.qml",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Image_viewer_2/pics/one.jpg",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Image_viewer_2/pics/photo-1591123720164-de1348028a82.jpg",
+		"C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Image_viewer_2/pics/Sand-dunes-Sahara-Morocco-Merzouga.jpg"
+	],
+	"LOCK_FILE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Image_viewer_2_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.0.4/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-Image_viewer_2-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/Image_viewer_2_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/Image_viewer_2/qml.qrc",
+	"VERBOSITY" : 0
+}

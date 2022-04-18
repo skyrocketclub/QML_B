@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry_Text_Editor-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/retry_Text_Editor.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry_Text_Editor-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry_Text_Editor-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry_Text_Editor-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/retry_Text_Editor_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry_Text_Editor-Desktop_Qt_6_0_4_MinGW_64_bit-Debug/CMakeFiles/retry_Text_Editor_autogen.dir

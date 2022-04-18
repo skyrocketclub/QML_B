@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ImagePage.qml</file>
+    </qresource>
+    <qresource prefix="/pics">
+        <file>pics/one.jpg</file>
+        <file>pics/photo-1591123720164-de1348028a82.jpg</file>
+        <file>pics/Sand-dunes-Sahara-Morocco-Merzouga.jpg</file>
+    </qresource>
+</RCC>

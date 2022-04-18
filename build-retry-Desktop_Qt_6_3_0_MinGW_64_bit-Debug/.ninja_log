@@ -1,0 +1,21 @@
+# ninja log v5
+6	279	6718861287727518	.qt_plugins/Qt6_QmlPlugins_Imports_retry.cmake	93f602ac09a765db
+6	279	6718861287727518	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_retry.cmake	93f602ac09a765db
+282	913	6718861292197441	retry_autogen/timestamp	a1aa4a1a4917f50
+282	913	6718861292197441	retry_autogen/mocs_compilation.cpp	a1aa4a1a4917f50
+282	913	6718861292197441	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/retry_autogen/timestamp	a1aa4a1a4917f50
+282	913	6718861292197441	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/retry_autogen/mocs_compilation.cpp	a1aa4a1a4917f50
+913	1004	6718861295039828	retry_autogen/EWIEGA46WW/qrc_qml.cpp	c6deed658eddc23f
+913	1004	6718861295039828	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/retry_autogen/EWIEGA46WW/qrc_qml.cpp	c6deed658eddc23f
+1004	1196	6718861297034491	CMakeFiles/retry.dir/retry_autogen/mocs_compilation.cpp.obj	2478d6ba4a88fc86
+1024	1234	6718861297413477	CMakeFiles/retry.dir/retry_autogen/EWIEGA46WW/qrc_qml.cpp.obj	8510b75ee91fd32d
+1017	4269	6718861327742742	CMakeFiles/retry.dir/main.cpp.obj	735c24af365aaddd
+4276	4688	6718861331882875	retry.exe	8cb0414c939b8561
+19	117	6718861440222379	retry_autogen/EWIEGA46WW/qrc_qml.cpp	c6deed658eddc23f
+19	117	6718861440222379	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/retry_autogen/EWIEGA46WW/qrc_qml.cpp	c6deed658eddc23f
+118	303	6718861442166522	CMakeFiles/retry.dir/retry_autogen/EWIEGA46WW/qrc_qml.cpp.obj	8510b75ee91fd32d
+305	718	6718861446244252	retry.exe	8cb0414c939b8561
+23	124	6718861524085276	retry_autogen/EWIEGA46WW/qrc_qml.cpp	c6deed658eddc23f
+23	124	6718861524085276	C:/Users/user/Desktop/CPP ++/My C++ Projects/QML_Beginner/build-retry-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/retry_autogen/EWIEGA46WW/qrc_qml.cpp	c6deed658eddc23f
+125	288	6718861525832833	CMakeFiles/retry.dir/retry_autogen/EWIEGA46WW/qrc_qml.cpp.obj	8510b75ee91fd32d
+289	668	6718861529573225	retry.exe	8cb0414c939b8561
